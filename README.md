@@ -5,6 +5,7 @@ It is a network socket programming project based on "PORT Creation".
 The objective of this project is to create a PORT for TCP communication between Server and Client.
 This project is developed in C Language.
 
+
 <br><br><br>
 ***
 ### Use the following commands in Linux Terminal to communicate on a specific PORT :-
@@ -18,6 +19,7 @@ This project is developed in C Language.
 # ./sr 8000
 ```
 ***
+<br><br><br>
 
 
 ## For any queries regarding this project, Contact me at 
